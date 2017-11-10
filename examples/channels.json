@@ -1,0 +1,3702 @@
+[
+    {
+        "name": "HBO_HD",
+        "channel": "501",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v501",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v501",
+            "http://cablecard:5004/tuner1/v501",
+            "http://cablecard:5004/tuner2/v501",
+            "http://cablecard2:5004/tuner0/v501",
+            "http://cablecard2:5004/tuner1/v501",
+            "http://cablecard2:5004/tuner2/v501"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v501?ClientID=3&SessionID=0",
+        "freq": "489000000",
+        "program": "1"
+    },
+    {
+        "name": "HBO HD",
+        "channel": "502",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v502",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v502",
+            "http://cablecard:5004/tuner1/v502",
+            "http://cablecard:5004/tuner2/v502",
+            "http://cablecard2:5004/tuner0/v502",
+            "http://cablecard2:5004/tuner1/v502",
+            "http://cablecard2:5004/tuner2/v502"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v502?ClientID=0&SessionID=1",
+        "freq": "489000000",
+        "program": "4"
+    },
+    {
+        "name": "HBO2 HD",
+        "channel": "503",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v503",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v503",
+            "http://cablecard:5004/tuner1/v503",
+            "http://cablecard:5004/tuner2/v503",
+            "http://cablecard2:5004/tuner0/v503",
+            "http://cablecard2:5004/tuner1/v503",
+            "http://cablecard2:5004/tuner2/v503"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v503?ClientID=4&SessionID=2",
+        "freq": "489000000",
+        "program": "3"
+    },
+    {
+        "name": "HBO 2 H",
+        "channel": "504",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v504",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v504",
+            "http://cablecard:5004/tuner1/v504",
+            "http://cablecard:5004/tuner2/v504",
+            "http://cablecard2:5004/tuner0/v504",
+            "http://cablecard2:5004/tuner1/v504",
+            "http://cablecard2:5004/tuner2/v504"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v504?ClientID=5&SessionID=3",
+        "freq": "483000000",
+        "program": "3"
+    },
+    {
+        "name": "HBO SIG",
+        "channel": "505",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v505",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v505",
+            "http://cablecard:5004/tuner1/v505",
+            "http://cablecard:5004/tuner2/v505",
+            "http://cablecard2:5004/tuner0/v505",
+            "http://cablecard2:5004/tuner1/v505",
+            "http://cablecard2:5004/tuner2/v505"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v505?ClientID=0&SessionID=4",
+        "freq": "999000000",
+        "program": "512"
+    },
+    {
+        "name": "HBO sig",
+        "channel": "506",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v506",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v506",
+            "http://cablecard:5004/tuner1/v506",
+            "http://cablecard:5004/tuner2/v506",
+            "http://cablecard2:5004/tuner0/v506",
+            "http://cablecard2:5004/tuner1/v506",
+            "http://cablecard2:5004/tuner2/v506"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v506?ClientID=1&SessionID=5",
+        "freq": "357000000",
+        "program": "4"
+    },
+    {
+        "name": "HBO FAM",
+        "channel": "507",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v507",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v507",
+            "http://cablecard:5004/tuner1/v507",
+            "http://cablecard:5004/tuner2/v507",
+            "http://cablecard2:5004/tuner0/v507",
+            "http://cablecard2:5004/tuner1/v507",
+            "http://cablecard2:5004/tuner2/v507"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v507?ClientID=3&SessionID=6",
+        "freq": "483000000",
+        "program": "4"
+    },
+    {
+        "name": "HBO Fam",
+        "channel": "508",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v508",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v508",
+            "http://cablecard:5004/tuner1/v508",
+            "http://cablecard:5004/tuner2/v508",
+            "http://cablecard2:5004/tuner0/v508",
+            "http://cablecard2:5004/tuner1/v508",
+            "http://cablecard2:5004/tuner2/v508"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v508?ClientID=3&SessionID=7",
+        "freq": "483000000",
+        "program": "3"
+    },
+    {
+        "name": "HBO Com",
+        "channel": "509",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v509",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v509",
+            "http://cablecard:5004/tuner1/v509",
+            "http://cablecard:5004/tuner2/v509",
+            "http://cablecard2:5004/tuner0/v509",
+            "http://cablecard2:5004/tuner1/v509",
+            "http://cablecard2:5004/tuner2/v509"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v509?ClientID=4&SessionID=8",
+        "freq": "399000000",
+        "program": "4"
+    },
+    {
+        "name": "HBO COM",
+        "channel": "510",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v510",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v510",
+            "http://cablecard:5004/tuner1/v510",
+            "http://cablecard:5004/tuner2/v510",
+            "http://cablecard2:5004/tuner0/v510",
+            "http://cablecard2:5004/tuner1/v510",
+            "http://cablecard2:5004/tuner2/v510"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v510?ClientID=2&SessionID=9",
+        "freq": "441000000",
+        "program": "2"
+    },
+    {
+        "name": "HBO Zon",
+        "channel": "511",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v511",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v511",
+            "http://cablecard:5004/tuner1/v511",
+            "http://cablecard:5004/tuner2/v511",
+            "http://cablecard2:5004/tuner0/v511",
+            "http://cablecard2:5004/tuner1/v511",
+            "http://cablecard2:5004/tuner2/v511"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v511?ClientID=1&SessionID=10",
+        "freq": "477000000",
+        "program": "2"
+    },
+    {
+        "name": "HBO ZON",
+        "channel": "512",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v512",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v512",
+            "http://cablecard:5004/tuner1/v512",
+            "http://cablecard:5004/tuner2/v512",
+            "http://cablecard2:5004/tuner0/v512",
+            "http://cablecard2:5004/tuner1/v512",
+            "http://cablecard2:5004/tuner2/v512"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v512?ClientID=0&SessionID=11",
+        "freq": "459000000",
+        "program": "2"
+    },
+    {
+        "name": "CINEMAX",
+        "channel": "531",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v531",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v531",
+            "http://cablecard:5004/tuner1/v531",
+            "http://cablecard:5004/tuner2/v531",
+            "http://cablecard2:5004/tuner0/v531",
+            "http://cablecard2:5004/tuner1/v531",
+            "http://cablecard2:5004/tuner2/v531"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v531?ClientID=0&SessionID=12",
+        "freq": "477000000",
+        "program": "2"
+    },
+    {
+        "name": "Cinemax",
+        "channel": "532",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v532",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v532",
+            "http://cablecard:5004/tuner1/v532",
+            "http://cablecard:5004/tuner2/v532",
+            "http://cablecard2:5004/tuner0/v532",
+            "http://cablecard2:5004/tuner1/v532",
+            "http://cablecard2:5004/tuner2/v532"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v532?ClientID=5&SessionID=13",
+        "freq": "441000000",
+        "program": "3"
+    },
+    {
+        "name": "MORE MA",
+        "channel": "533",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v533",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v533",
+            "http://cablecard:5004/tuner1/v533",
+            "http://cablecard:5004/tuner2/v533",
+            "http://cablecard2:5004/tuner0/v533",
+            "http://cablecard2:5004/tuner1/v533",
+            "http://cablecard2:5004/tuner2/v533"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v533?ClientID=4&SessionID=14",
+        "freq": "477000000",
+        "program": "2"
+    },
+    {
+        "name": "More Ma",
+        "channel": "534",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v534",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v534",
+            "http://cablecard:5004/tuner1/v534",
+            "http://cablecard:5004/tuner2/v534",
+            "http://cablecard2:5004/tuner0/v534",
+            "http://cablecard2:5004/tuner1/v534",
+            "http://cablecard2:5004/tuner2/v534"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v534?ClientID=2&SessionID=15",
+        "freq": "441000000",
+        "program": "4"
+    },
+    {
+        "name": "ACTION",
+        "channel": "535",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v535",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v535",
+            "http://cablecard:5004/tuner1/v535",
+            "http://cablecard:5004/tuner2/v535",
+            "http://cablecard2:5004/tuner0/v535",
+            "http://cablecard2:5004/tuner1/v535",
+            "http://cablecard2:5004/tuner2/v535"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v535?ClientID=4&SessionID=16",
+        "freq": "477000000",
+        "program": "4"
+    },
+    {
+        "name": "ActionM",
+        "channel": "536",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v536",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v536",
+            "http://cablecard:5004/tuner1/v536",
+            "http://cablecard:5004/tuner2/v536",
+            "http://cablecard2:5004/tuner0/v536",
+            "http://cablecard2:5004/tuner1/v536",
+            "http://cablecard2:5004/tuner2/v536"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v536?ClientID=5&SessionID=17",
+        "freq": "999000000",
+        "program": "538"
+    },
+    {
+        "name": "Thrille",
+        "channel": "537",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v537",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v537",
+            "http://cablecard:5004/tuner1/v537",
+            "http://cablecard:5004/tuner2/v537",
+            "http://cablecard2:5004/tuner0/v537",
+            "http://cablecard2:5004/tuner1/v537",
+            "http://cablecard2:5004/tuner2/v537"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v537?ClientID=1&SessionID=18",
+        "freq": "381000000",
+        "program": "1"
+    },
+    {
+        "name": "THRILLE",
+        "channel": "538",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v538",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v538",
+            "http://cablecard:5004/tuner1/v538",
+            "http://cablecard:5004/tuner2/v538",
+            "http://cablecard2:5004/tuner0/v538",
+            "http://cablecard2:5004/tuner1/v538",
+            "http://cablecard2:5004/tuner2/v538"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v538?ClientID=2&SessionID=19",
+        "freq": "999000000",
+        "program": "541"
+    },
+    {
+        "name": "5 StarM",
+        "channel": "539",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v539?CONTENTPROTECTIONTYPE=DTCP1&DTCP1HOST=10.2.2.23&DTCP1PORT=8888",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v539",
+            "http://cablecard:5004/tuner1/v539",
+            "http://cablecard:5004/tuner2/v539",
+            "http://cablecard2:5004/tuner0/v539",
+            "http://cablecard2:5004/tuner1/v539",
+            "http://cablecard2:5004/tuner2/v539"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v539?CONTENTPROTECTIONTYPE=DTCP1&DTCP1HOST=10.2.2.23&DTCP1PORT=8888?ClientID=0&SessionID=20",
+        "freq": "495000000",
+        "program": "3"
+    },
+    {
+        "name": "WMAX HD",
+        "channel": "541",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v541?CONTENTPROTECTIONTYPE=DTCP1&DTCP1HOST=10.2.2.23&DTCP1PORT=8888",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v541",
+            "http://cablecard:5004/tuner1/v541",
+            "http://cablecard:5004/tuner2/v541",
+            "http://cablecard2:5004/tuner0/v541",
+            "http://cablecard2:5004/tuner1/v541",
+            "http://cablecard2:5004/tuner2/v541"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v541?CONTENTPROTECTIONTYPE=DTCP1&DTCP1HOST=10.2.2.23&DTCP1PORT=8888?ClientID=5&SessionID=21",
+        "freq": "459000000",
+        "program": "4"
+    },
+    {
+        "name": "OuterMa",
+        "channel": "543",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v543?CONTENTPROTECTIONTYPE=DTCP1&DTCP1HOST=10.2.2.23&DTCP1PORT=8888",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v543",
+            "http://cablecard:5004/tuner1/v543",
+            "http://cablecard:5004/tuner2/v543",
+            "http://cablecard2:5004/tuner0/v543",
+            "http://cablecard2:5004/tuner1/v543",
+            "http://cablecard2:5004/tuner2/v543"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v543?CONTENTPROTECTIONTYPE=DTCP1&DTCP1HOST=10.2.2.23&DTCP1PORT=8888?ClientID=5&SessionID=22",
+        "freq": "459000000",
+        "program": "3"
+    },
+    {
+        "name": "Latino",
+        "channel": "545",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v545?CONTENTPROTECTIONTYPE=DTCP1&DTCP1HOST=10.2.2.23&DTCP1PORT=8888",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v545",
+            "http://cablecard:5004/tuner1/v545",
+            "http://cablecard:5004/tuner2/v545",
+            "http://cablecard2:5004/tuner0/v545",
+            "http://cablecard2:5004/tuner1/v545",
+            "http://cablecard2:5004/tuner2/v545"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v545?CONTENTPROTECTIONTYPE=DTCP1&DTCP1HOST=10.2.2.23&DTCP1PORT=8888?ClientID=2&SessionID=23",
+        "freq": "459000000",
+        "program": "3"
+    },
+    {
+        "name": "SHOWTIM",
+        "channel": "561",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v561",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v561",
+            "http://cablecard:5004/tuner1/v561",
+            "http://cablecard:5004/tuner2/v561",
+            "http://cablecard2:5004/tuner0/v561",
+            "http://cablecard2:5004/tuner1/v561",
+            "http://cablecard2:5004/tuner2/v561"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v561?ClientID=3&SessionID=24",
+        "freq": "459000000",
+        "program": "2"
+    },
+    {
+        "name": "Showtim",
+        "channel": "562",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v562",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v562",
+            "http://cablecard:5004/tuner1/v562",
+            "http://cablecard:5004/tuner2/v562",
+            "http://cablecard2:5004/tuner0/v562",
+            "http://cablecard2:5004/tuner1/v562",
+            "http://cablecard2:5004/tuner2/v562"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v562?ClientID=4&SessionID=25",
+        "freq": "381000000",
+        "program": "2"
+    },
+    {
+        "name": "SHOWTIM",
+        "channel": "563",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v563",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v563",
+            "http://cablecard:5004/tuner1/v563",
+            "http://cablecard:5004/tuner2/v563",
+            "http://cablecard2:5004/tuner0/v563",
+            "http://cablecard2:5004/tuner1/v563",
+            "http://cablecard2:5004/tuner2/v563"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v563?ClientID=2&SessionID=26",
+        "freq": "459000000",
+        "program": "3"
+    },
+    {
+        "name": "Showtim",
+        "channel": "564",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v564",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v564",
+            "http://cablecard:5004/tuner1/v564",
+            "http://cablecard:5004/tuner2/v564",
+            "http://cablecard2:5004/tuner0/v564",
+            "http://cablecard2:5004/tuner1/v564",
+            "http://cablecard2:5004/tuner2/v564"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v564?ClientID=1&SessionID=27",
+        "freq": "381000000",
+        "program": "3"
+    },
+    {
+        "name": "SHOWTIM",
+        "channel": "565",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v565",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v565",
+            "http://cablecard:5004/tuner1/v565",
+            "http://cablecard:5004/tuner2/v565",
+            "http://cablecard2:5004/tuner0/v565",
+            "http://cablecard2:5004/tuner1/v565",
+            "http://cablecard2:5004/tuner2/v565"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v565?ClientID=3&SessionID=28",
+        "freq": "495000000",
+        "program": "4"
+    },
+    {
+        "name": "Showtim",
+        "channel": "566",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v566",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v566",
+            "http://cablecard:5004/tuner1/v566",
+            "http://cablecard:5004/tuner2/v566",
+            "http://cablecard2:5004/tuner0/v566",
+            "http://cablecard2:5004/tuner1/v566",
+            "http://cablecard2:5004/tuner2/v566"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v566?ClientID=1&SessionID=29",
+        "freq": "381000000",
+        "program": "4"
+    },
+    {
+        "name": "Showtim",
+        "channel": "567",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v567",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v567",
+            "http://cablecard:5004/tuner1/v567",
+            "http://cablecard:5004/tuner2/v567",
+            "http://cablecard2:5004/tuner0/v567",
+            "http://cablecard2:5004/tuner1/v567",
+            "http://cablecard2:5004/tuner2/v567"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v567?ClientID=2&SessionID=30",
+        "freq": "999000000",
+        "program": "19306"
+    },
+    {
+        "name": "SHOWTIM",
+        "channel": "569",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v569",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v569",
+            "http://cablecard:5004/tuner1/v569",
+            "http://cablecard:5004/tuner2/v569",
+            "http://cablecard2:5004/tuner0/v569",
+            "http://cablecard2:5004/tuner1/v569",
+            "http://cablecard2:5004/tuner2/v569"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v569?ClientID=0&SessionID=31",
+        "freq": "999000000",
+        "program": "571"
+    },
+    {
+        "name": "SHowtim",
+        "channel": "570",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v570",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v570",
+            "http://cablecard:5004/tuner1/v570",
+            "http://cablecard:5004/tuner2/v570",
+            "http://cablecard2:5004/tuner0/v570",
+            "http://cablecard2:5004/tuner1/v570",
+            "http://cablecard2:5004/tuner2/v570"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v570?ClientID=4&SessionID=32",
+        "freq": "381000000",
+        "program": "3"
+    },
+    {
+        "name": "SHOWTIM",
+        "channel": "571",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v571",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v571",
+            "http://cablecard:5004/tuner1/v571",
+            "http://cablecard:5004/tuner2/v571",
+            "http://cablecard2:5004/tuner0/v571",
+            "http://cablecard2:5004/tuner1/v571",
+            "http://cablecard2:5004/tuner2/v571"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v571?ClientID=4&SessionID=33",
+        "freq": "297000000",
+        "program": "2"
+    },
+    {
+        "name": "SHOWTIM",
+        "channel": "573",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v573",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v573",
+            "http://cablecard:5004/tuner1/v573",
+            "http://cablecard:5004/tuner2/v573",
+            "http://cablecard2:5004/tuner0/v573",
+            "http://cablecard2:5004/tuner1/v573",
+            "http://cablecard2:5004/tuner2/v573"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v573?ClientID=5&SessionID=34",
+        "freq": "297000000",
+        "program": "1"
+    },
+    {
+        "name": "Olympic",
+        "channel": "698",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v698",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v698",
+            "http://cablecard:5004/tuner1/v698",
+            "http://cablecard:5004/tuner2/v698",
+            "http://cablecard2:5004/tuner0/v698",
+            "http://cablecard2:5004/tuner1/v698",
+            "http://cablecard2:5004/tuner2/v698"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v698?ClientID=0&SessionID=35",
+        "freq": "183000000",
+        "program": "3"
+    },
+    {
+        "name": "WATL_HD",
+        "channel": "701",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v701",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v701",
+            "http://cablecard:5004/tuner1/v701",
+            "http://cablecard:5004/tuner2/v701",
+            "http://cablecard2:5004/tuner0/v701",
+            "http://cablecard2:5004/tuner1/v701",
+            "http://cablecard2:5004/tuner2/v701"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v701?ClientID=1&SessionID=36",
+        "freq": "183000000",
+        "program": "1"
+    },
+    {
+        "name": "WSB_ABC",
+        "channel": "702",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v702",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v702",
+            "http://cablecard:5004/tuner1/v702",
+            "http://cablecard:5004/tuner2/v702",
+            "http://cablecard2:5004/tuner0/v702",
+            "http://cablecard2:5004/tuner1/v702",
+            "http://cablecard2:5004/tuner2/v702"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v702?ClientID=1&SessionID=37",
+        "freq": "999000000",
+        "program": "571"
+    },
+    {
+        "name": "QVC HD",
+        "channel": "703",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v703",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v703",
+            "http://cablecard:5004/tuner1/v703",
+            "http://cablecard:5004/tuner2/v703",
+            "http://cablecard2:5004/tuner0/v703",
+            "http://cablecard2:5004/tuner1/v703",
+            "http://cablecard2:5004/tuner2/v703"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v703?ClientID=2&SessionID=38",
+        "freq": "195000000",
+        "program": "1"
+    },
+    {
+        "name": "WGCL_CB",
+        "channel": "704",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v704",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v704",
+            "http://cablecard:5004/tuner1/v704",
+            "http://cablecard:5004/tuner2/v704",
+            "http://cablecard2:5004/tuner0/v704",
+            "http://cablecard2:5004/tuner1/v704",
+            "http://cablecard2:5004/tuner2/v704"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v704?ClientID=3&SessionID=39",
+        "freq": "183000000",
+        "program": "2"
+    },
+    {
+        "name": "WAGA_FO",
+        "channel": "705",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v705",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v705",
+            "http://cablecard:5004/tuner1/v705",
+            "http://cablecard:5004/tuner2/v705",
+            "http://cablecard2:5004/tuner0/v705",
+            "http://cablecard2:5004/tuner1/v705",
+            "http://cablecard2:5004/tuner2/v705"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v705?ClientID=5&SessionID=40",
+        "freq": "201000000",
+        "program": "1"
+    },
+    {
+        "name": "WXIA_NB",
+        "channel": "706",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v706",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v706",
+            "http://cablecard:5004/tuner1/v706",
+            "http://cablecard:5004/tuner2/v706",
+            "http://cablecard2:5004/tuner0/v706",
+            "http://cablecard2:5004/tuner1/v706",
+            "http://cablecard2:5004/tuner2/v706"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v706?ClientID=0&SessionID=41",
+        "freq": "189000000",
+        "program": "3"
+    },
+    {
+        "name": "WPCH_HD",
+        "channel": "707",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v707",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v707",
+            "http://cablecard:5004/tuner1/v707",
+            "http://cablecard:5004/tuner2/v707",
+            "http://cablecard2:5004/tuner0/v707",
+            "http://cablecard2:5004/tuner1/v707",
+            "http://cablecard2:5004/tuner2/v707"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v707?ClientID=2&SessionID=42",
+        "freq": "189000000",
+        "program": "2"
+    },
+    {
+        "name": "WGTV_PB",
+        "channel": "708",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v708",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v708",
+            "http://cablecard:5004/tuner1/v708",
+            "http://cablecard:5004/tuner2/v708",
+            "http://cablecard2:5004/tuner0/v708",
+            "http://cablecard2:5004/tuner1/v708",
+            "http://cablecard2:5004/tuner2/v708"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v708?ClientID=2&SessionID=43",
+        "freq": "189000000",
+        "program": "2"
+    },
+    {
+        "name": "CW_WUPA",
+        "channel": "709",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v709",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v709",
+            "http://cablecard:5004/tuner1/v709",
+            "http://cablecard:5004/tuner2/v709",
+            "http://cablecard2:5004/tuner0/v709",
+            "http://cablecard2:5004/tuner1/v709",
+            "http://cablecard2:5004/tuner2/v709"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v709?ClientID=3&SessionID=44",
+        "freq": "195000000",
+        "program": "2"
+    },
+    {
+        "name": "HSN HD",
+        "channel": "710",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v710",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v710",
+            "http://cablecard:5004/tuner1/v710",
+            "http://cablecard:5004/tuner2/v710",
+            "http://cablecard2:5004/tuner0/v710",
+            "http://cablecard2:5004/tuner1/v710",
+            "http://cablecard2:5004/tuner2/v710"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v710?ClientID=1&SessionID=45",
+        "freq": "195000000",
+        "program": "3"
+    },
+    {
+        "name": "ION HD",
+        "channel": "711",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v711",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v711",
+            "http://cablecard:5004/tuner1/v711",
+            "http://cablecard:5004/tuner2/v711",
+            "http://cablecard2:5004/tuner0/v711",
+            "http://cablecard2:5004/tuner1/v711",
+            "http://cablecard2:5004/tuner2/v711"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v711?ClientID=0&SessionID=46",
+        "freq": "111000000",
+        "program": "1"
+    },
+    {
+        "name": "WPBA HD",
+        "channel": "712",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v712",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v712",
+            "http://cablecard:5004/tuner1/v712",
+            "http://cablecard:5004/tuner2/v712",
+            "http://cablecard2:5004/tuner0/v712",
+            "http://cablecard2:5004/tuner1/v712",
+            "http://cablecard2:5004/tuner2/v712"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v712?ClientID=1&SessionID=47",
+        "freq": "201000000",
+        "program": "3"
+    },
+    {
+        "name": "WUVG_HD",
+        "channel": "715",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v715",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v715",
+            "http://cablecard:5004/tuner1/v715",
+            "http://cablecard:5004/tuner2/v715",
+            "http://cablecard2:5004/tuner0/v715",
+            "http://cablecard2:5004/tuner1/v715",
+            "http://cablecard2:5004/tuner2/v715"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v715?ClientID=5&SessionID=48",
+        "freq": "201000000",
+        "program": "3"
+    },
+    {
+        "name": "WKTB HD",
+        "channel": "716",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v716",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v716",
+            "http://cablecard:5004/tuner1/v716",
+            "http://cablecard:5004/tuner2/v716",
+            "http://cablecard2:5004/tuner0/v716",
+            "http://cablecard2:5004/tuner1/v716",
+            "http://cablecard2:5004/tuner2/v716"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v716?ClientID=4&SessionID=49",
+        "freq": "315000000",
+        "program": "1"
+    },
+    {
+        "name": "JEWELRY",
+        "channel": "717",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v717",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v717",
+            "http://cablecard:5004/tuner1/v717",
+            "http://cablecard:5004/tuner2/v717",
+            "http://cablecard2:5004/tuner0/v717",
+            "http://cablecard2:5004/tuner1/v717",
+            "http://cablecard2:5004/tuner2/v717"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v717?ClientID=3&SessionID=50",
+        "freq": "393000000",
+        "program": "1"
+    },
+    {
+        "name": "FoxSprt",
+        "channel": "718",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v718",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v718",
+            "http://cablecard:5004/tuner1/v718",
+            "http://cablecard:5004/tuner2/v718",
+            "http://cablecard2:5004/tuner0/v718",
+            "http://cablecard2:5004/tuner1/v718",
+            "http://cablecard2:5004/tuner2/v718"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v718?ClientID=1&SessionID=51",
+        "freq": "279000000",
+        "program": "1"
+    },
+    {
+        "name": "FOX Spo",
+        "channel": "719",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v719",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v719",
+            "http://cablecard:5004/tuner1/v719",
+            "http://cablecard:5004/tuner2/v719",
+            "http://cablecard2:5004/tuner0/v719",
+            "http://cablecard2:5004/tuner1/v719",
+            "http://cablecard2:5004/tuner2/v719"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v719?ClientID=0&SessionID=52",
+        "freq": "213000000",
+        "program": "1"
+    },
+    {
+        "name": "ESPN HD",
+        "channel": "720",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v720",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v720",
+            "http://cablecard:5004/tuner1/v720",
+            "http://cablecard:5004/tuner2/v720",
+            "http://cablecard2:5004/tuner0/v720",
+            "http://cablecard2:5004/tuner1/v720",
+            "http://cablecard2:5004/tuner2/v720"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v720?ClientID=1&SessionID=53",
+        "freq": "213000000",
+        "program": "2"
+    },
+    {
+        "name": "ESPN2_H",
+        "channel": "721",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v721",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v721",
+            "http://cablecard:5004/tuner1/v721",
+            "http://cablecard:5004/tuner2/v721",
+            "http://cablecard2:5004/tuner0/v721",
+            "http://cablecard2:5004/tuner1/v721",
+            "http://cablecard2:5004/tuner2/v721"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v721?ClientID=2&SessionID=54",
+        "freq": "201000000",
+        "program": "3"
+    },
+    {
+        "name": "FS_SOUT",
+        "channel": "722",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v722",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v722",
+            "http://cablecard:5004/tuner1/v722",
+            "http://cablecard:5004/tuner2/v722",
+            "http://cablecard2:5004/tuner0/v722",
+            "http://cablecard2:5004/tuner1/v722",
+            "http://cablecard2:5004/tuner2/v722"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v722?ClientID=3&SessionID=55",
+        "freq": "321000000",
+        "program": "1"
+    },
+    {
+        "name": "SPORTS",
+        "channel": "723",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v723",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v723",
+            "http://cablecard:5004/tuner1/v723",
+            "http://cablecard:5004/tuner2/v723",
+            "http://cablecard2:5004/tuner0/v723",
+            "http://cablecard2:5004/tuner1/v723",
+            "http://cablecard2:5004/tuner2/v723"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v723?ClientID=1&SessionID=56",
+        "freq": "237000000",
+        "program": "1"
+    },
+    {
+        "name": "MLB_HD",
+        "channel": "724",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v724",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v724",
+            "http://cablecard:5004/tuner1/v724",
+            "http://cablecard:5004/tuner2/v724",
+            "http://cablecard2:5004/tuner0/v724",
+            "http://cablecard2:5004/tuner1/v724",
+            "http://cablecard2:5004/tuner2/v724"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v724?ClientID=0&SessionID=57",
+        "freq": "273000000",
+        "program": "3"
+    },
+    {
+        "name": "GOLF_HD",
+        "channel": "725",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v725",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v725",
+            "http://cablecard:5004/tuner1/v725",
+            "http://cablecard:5004/tuner2/v725",
+            "http://cablecard2:5004/tuner0/v725",
+            "http://cablecard2:5004/tuner1/v725",
+            "http://cablecard2:5004/tuner2/v725"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v725?ClientID=2&SessionID=58",
+        "freq": "279000000",
+        "program": "3"
+    },
+    {
+        "name": "USA HD",
+        "channel": "726",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v726",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v726",
+            "http://cablecard:5004/tuner1/v726",
+            "http://cablecard:5004/tuner2/v726",
+            "http://cablecard2:5004/tuner0/v726",
+            "http://cablecard2:5004/tuner1/v726",
+            "http://cablecard2:5004/tuner2/v726"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v726?ClientID=4&SessionID=59",
+        "freq": "279000000",
+        "program": "3"
+    },
+    {
+        "name": "BRAVO H",
+        "channel": "727",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v727",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v727",
+            "http://cablecard:5004/tuner1/v727",
+            "http://cablecard:5004/tuner2/v727",
+            "http://cablecard2:5004/tuner0/v727",
+            "http://cablecard2:5004/tuner1/v727",
+            "http://cablecard2:5004/tuner2/v727"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v727?ClientID=3&SessionID=60",
+        "freq": "327000000",
+        "program": "1"
+    },
+    {
+        "name": "SCI FI",
+        "channel": "729",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v729",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v729",
+            "http://cablecard:5004/tuner1/v729",
+            "http://cablecard:5004/tuner2/v729",
+            "http://cablecard2:5004/tuner0/v729",
+            "http://cablecard2:5004/tuner1/v729",
+            "http://cablecard2:5004/tuner2/v729"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v729?ClientID=4&SessionID=61",
+        "freq": "267000000",
+        "program": "2"
+    },
+    {
+        "name": "Velocit",
+        "channel": "730",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v730",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v730",
+            "http://cablecard:5004/tuner1/v730",
+            "http://cablecard:5004/tuner2/v730",
+            "http://cablecard2:5004/tuner0/v730",
+            "http://cablecard2:5004/tuner1/v730",
+            "http://cablecard2:5004/tuner2/v730"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v730?ClientID=0&SessionID=62",
+        "freq": "279000000",
+        "program": "2"
+    },
+    {
+        "name": "TNT_HD",
+        "channel": "731",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v731",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v731",
+            "http://cablecard:5004/tuner1/v731",
+            "http://cablecard:5004/tuner2/v731",
+            "http://cablecard2:5004/tuner0/v731",
+            "http://cablecard2:5004/tuner1/v731",
+            "http://cablecard2:5004/tuner2/v731"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v731?ClientID=4&SessionID=63",
+        "freq": "243000000",
+        "program": "2"
+    },
+    {
+        "name": "PLD_HD",
+        "channel": "733",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v733",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v733",
+            "http://cablecard:5004/tuner1/v733",
+            "http://cablecard:5004/tuner2/v733",
+            "http://cablecard2:5004/tuner0/v733",
+            "http://cablecard2:5004/tuner1/v733",
+            "http://cablecard2:5004/tuner2/v733"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v733?ClientID=5&SessionID=64",
+        "freq": "279000000",
+        "program": "3"
+    },
+    {
+        "name": "A and E",
+        "channel": "734",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v734",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v734",
+            "http://cablecard:5004/tuner1/v734",
+            "http://cablecard:5004/tuner2/v734",
+            "http://cablecard2:5004/tuner0/v734",
+            "http://cablecard2:5004/tuner1/v734",
+            "http://cablecard2:5004/tuner2/v734"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v734?ClientID=3&SessionID=65",
+        "freq": "249000000",
+        "program": "1"
+    },
+    {
+        "name": "HISTORY",
+        "channel": "735",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v735",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v735",
+            "http://cablecard:5004/tuner1/v735",
+            "http://cablecard:5004/tuner2/v735",
+            "http://cablecard2:5004/tuner0/v735",
+            "http://cablecard2:5004/tuner1/v735",
+            "http://cablecard2:5004/tuner2/v735"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v735?ClientID=1&SessionID=66",
+        "freq": "999000000",
+        "program": "740"
+    },
+    {
+        "name": "WEATHER",
+        "channel": "736",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v736",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v736",
+            "http://cablecard:5004/tuner1/v736",
+            "http://cablecard:5004/tuner2/v736",
+            "http://cablecard2:5004/tuner0/v736",
+            "http://cablecard2:5004/tuner1/v736",
+            "http://cablecard2:5004/tuner2/v736"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v736?ClientID=3&SessionID=67",
+        "freq": "237000000",
+        "program": "3"
+    },
+    {
+        "name": "HOME_GA",
+        "channel": "737",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v737",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v737",
+            "http://cablecard:5004/tuner1/v737",
+            "http://cablecard:5004/tuner2/v737",
+            "http://cablecard2:5004/tuner0/v737",
+            "http://cablecard2:5004/tuner1/v737",
+            "http://cablecard2:5004/tuner2/v737"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v737?ClientID=5&SessionID=68",
+        "freq": "261000000",
+        "program": "2"
+    },
+    {
+        "name": "FOOD NE",
+        "channel": "738",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v738",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v738",
+            "http://cablecard:5004/tuner1/v738",
+            "http://cablecard:5004/tuner2/v738",
+            "http://cablecard2:5004/tuner0/v738",
+            "http://cablecard2:5004/tuner1/v738",
+            "http://cablecard2:5004/tuner2/v738"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v738?ClientID=5&SessionID=69",
+        "freq": "399000000",
+        "program": "1"
+    },
+    {
+        "name": "HD Net",
+        "channel": "740",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v740",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v740",
+            "http://cablecard:5004/tuner1/v740",
+            "http://cablecard:5004/tuner2/v740",
+            "http://cablecard2:5004/tuner0/v740",
+            "http://cablecard2:5004/tuner1/v740",
+            "http://cablecard2:5004/tuner2/v740"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v740?ClientID=1&SessionID=70",
+        "freq": "375000000",
+        "program": "2"
+    },
+    {
+        "name": "AMC HD",
+        "channel": "742",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v742",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v742",
+            "http://cablecard:5004/tuner1/v742",
+            "http://cablecard:5004/tuner2/v742",
+            "http://cablecard2:5004/tuner0/v742",
+            "http://cablecard2:5004/tuner1/v742",
+            "http://cablecard2:5004/tuner2/v742"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v742?ClientID=0&SessionID=71",
+        "freq": "237000000",
+        "program": "3"
+    },
+    {
+        "name": "IFC HD",
+        "channel": "743",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v743",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v743",
+            "http://cablecard:5004/tuner1/v743",
+            "http://cablecard:5004/tuner2/v743",
+            "http://cablecard2:5004/tuner0/v743",
+            "http://cablecard2:5004/tuner1/v743",
+            "http://cablecard2:5004/tuner2/v743"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v743?ClientID=0&SessionID=72",
+        "freq": "237000000",
+        "program": "3"
+    },
+    {
+        "name": "WE HD",
+        "channel": "744",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v744",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v744",
+            "http://cablecard:5004/tuner1/v744",
+            "http://cablecard:5004/tuner2/v744",
+            "http://cablecard2:5004/tuner0/v744",
+            "http://cablecard2:5004/tuner1/v744",
+            "http://cablecard2:5004/tuner2/v744"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v744?ClientID=5&SessionID=73",
+        "freq": "267000000",
+        "program": "3"
+    },
+    {
+        "name": "FUSE HD",
+        "channel": "745",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v745",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v745",
+            "http://cablecard:5004/tuner1/v745",
+            "http://cablecard:5004/tuner2/v745",
+            "http://cablecard2:5004/tuner0/v745",
+            "http://cablecard2:5004/tuner1/v745",
+            "http://cablecard2:5004/tuner2/v745"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v745?ClientID=0&SessionID=74",
+        "freq": "225000000",
+        "program": "2"
+    },
+    {
+        "name": "DISCOVE",
+        "channel": "746",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v746",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v746",
+            "http://cablecard:5004/tuner1/v746",
+            "http://cablecard:5004/tuner2/v746",
+            "http://cablecard2:5004/tuner0/v746",
+            "http://cablecard2:5004/tuner1/v746",
+            "http://cablecard2:5004/tuner2/v746"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v746?ClientID=5&SessionID=75",
+        "freq": "297000000",
+        "program": "3"
+    },
+    {
+        "name": "TLC HD",
+        "channel": "747",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v747",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v747",
+            "http://cablecard:5004/tuner1/v747",
+            "http://cablecard:5004/tuner2/v747",
+            "http://cablecard2:5004/tuner0/v747",
+            "http://cablecard2:5004/tuner1/v747",
+            "http://cablecard2:5004/tuner2/v747"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v747?ClientID=0&SessionID=76",
+        "freq": "255000000",
+        "program": "1"
+    },
+    {
+        "name": "Animal",
+        "channel": "748",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v748",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v748",
+            "http://cablecard:5004/tuner1/v748",
+            "http://cablecard:5004/tuner2/v748",
+            "http://cablecard2:5004/tuner0/v748",
+            "http://cablecard2:5004/tuner1/v748",
+            "http://cablecard2:5004/tuner2/v748"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v748?ClientID=3&SessionID=77",
+        "freq": "999000000",
+        "program": "745"
+    },
+    {
+        "name": "NAT GEO",
+        "channel": "749",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v749",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v749",
+            "http://cablecard:5004/tuner1/v749",
+            "http://cablecard:5004/tuner2/v749",
+            "http://cablecard2:5004/tuner0/v749",
+            "http://cablecard2:5004/tuner1/v749",
+            "http://cablecard2:5004/tuner2/v749"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v749?ClientID=2&SessionID=78",
+        "freq": "267000000",
+        "program": "3"
+    },
+    {
+        "name": "Smithso",
+        "channel": "750",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v750",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v750",
+            "http://cablecard:5004/tuner1/v750",
+            "http://cablecard:5004/tuner2/v750",
+            "http://cablecard2:5004/tuner0/v750",
+            "http://cablecard2:5004/tuner1/v750",
+            "http://cablecard2:5004/tuner2/v750"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v750?ClientID=4&SessionID=79",
+        "freq": "747000000",
+        "program": "1"
+    },
+    {
+        "name": "COOKING",
+        "channel": "753",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v753",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v753",
+            "http://cablecard:5004/tuner1/v753",
+            "http://cablecard:5004/tuner2/v753",
+            "http://cablecard2:5004/tuner0/v753",
+            "http://cablecard2:5004/tuner1/v753",
+            "http://cablecard2:5004/tuner2/v753"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v753?ClientID=4&SessionID=80",
+        "freq": "273000000",
+        "program": "2"
+    },
+    {
+        "name": "SHOP HQ",
+        "channel": "754",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v754",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v754",
+            "http://cablecard:5004/tuner1/v754",
+            "http://cablecard:5004/tuner2/v754",
+            "http://cablecard2:5004/tuner0/v754",
+            "http://cablecard2:5004/tuner1/v754",
+            "http://cablecard2:5004/tuner2/v754"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v754?ClientID=2&SessionID=81",
+        "freq": "747000000",
+        "program": "2"
+    },
+    {
+        "name": "CSPAN2",
+        "channel": "756",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v756",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v756",
+            "http://cablecard:5004/tuner1/v756",
+            "http://cablecard:5004/tuner2/v756",
+            "http://cablecard2:5004/tuner0/v756",
+            "http://cablecard2:5004/tuner1/v756",
+            "http://cablecard2:5004/tuner2/v756"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v756?ClientID=1&SessionID=82",
+        "freq": "363000000",
+        "program": "4"
+    },
+    {
+        "name": "CSPAN3",
+        "channel": "757",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v757",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v757",
+            "http://cablecard:5004/tuner1/v757",
+            "http://cablecard:5004/tuner2/v757",
+            "http://cablecard2:5004/tuner0/v757",
+            "http://cablecard2:5004/tuner1/v757",
+            "http://cablecard2:5004/tuner2/v757"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v757?ClientID=5&SessionID=83",
+        "freq": "399000000",
+        "program": "2"
+    },
+    {
+        "name": "TRAVEL",
+        "channel": "758",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v758",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v758",
+            "http://cablecard:5004/tuner1/v758",
+            "http://cablecard:5004/tuner2/v758",
+            "http://cablecard2:5004/tuner0/v758",
+            "http://cablecard2:5004/tuner1/v758",
+            "http://cablecard2:5004/tuner2/v758"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v758?ClientID=3&SessionID=84",
+        "freq": "999000000",
+        "program": "763"
+    },
+    {
+        "name": "HALLMAR",
+        "channel": "760",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v760",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v760",
+            "http://cablecard:5004/tuner1/v760",
+            "http://cablecard:5004/tuner2/v760",
+            "http://cablecard2:5004/tuner0/v760",
+            "http://cablecard2:5004/tuner1/v760",
+            "http://cablecard2:5004/tuner2/v760"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v760?ClientID=2&SessionID=85",
+        "freq": "339000000",
+        "program": "1"
+    },
+    {
+        "name": "LIFETIM",
+        "channel": "761",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v761",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v761",
+            "http://cablecard:5004/tuner1/v761",
+            "http://cablecard:5004/tuner2/v761",
+            "http://cablecard2:5004/tuner0/v761",
+            "http://cablecard2:5004/tuner1/v761",
+            "http://cablecard2:5004/tuner2/v761"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v761?ClientID=1&SessionID=86",
+        "freq": "999000000",
+        "program": "18863"
+    },
+    {
+        "name": "NATIONA",
+        "channel": "762",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v762",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v762",
+            "http://cablecard:5004/tuner1/v762",
+            "http://cablecard:5004/tuner2/v762",
+            "http://cablecard2:5004/tuner0/v762",
+            "http://cablecard2:5004/tuner1/v762",
+            "http://cablecard2:5004/tuner2/v762"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v762?ClientID=3&SessionID=87",
+        "freq": "339000000",
+        "program": "1"
+    },
+    {
+        "name": "GMC HD",
+        "channel": "764",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v764",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v764",
+            "http://cablecard:5004/tuner1/v764",
+            "http://cablecard:5004/tuner2/v764",
+            "http://cablecard2:5004/tuner0/v764",
+            "http://cablecard2:5004/tuner1/v764",
+            "http://cablecard2:5004/tuner2/v764"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v764?ClientID=4&SessionID=89",
+        "freq": "339000000",
+        "program": "1"
+    },
+    {
+        "name": "OWN HD",
+        "channel": "766",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v766",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v766",
+            "http://cablecard:5004/tuner1/v766",
+            "http://cablecard:5004/tuner2/v766",
+            "http://cablecard2:5004/tuner0/v766",
+            "http://cablecard2:5004/tuner1/v766",
+            "http://cablecard2:5004/tuner2/v766"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v766?ClientID=5&SessionID=90",
+        "freq": "345000000",
+        "program": "1"
+    },
+    {
+        "name": "NICK JR",
+        "channel": "767",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v767",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v767",
+            "http://cablecard:5004/tuner1/v767",
+            "http://cablecard:5004/tuner2/v767",
+            "http://cablecard2:5004/tuner0/v767",
+            "http://cablecard2:5004/tuner1/v767",
+            "http://cablecard2:5004/tuner2/v767"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v767?ClientID=2&SessionID=91",
+        "freq": "321000000",
+        "program": "2"
+    },
+    {
+        "name": "H2 HD",
+        "channel": "769",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v769",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v769",
+            "http://cablecard:5004/tuner1/v769",
+            "http://cablecard:5004/tuner2/v769",
+            "http://cablecard2:5004/tuner0/v769",
+            "http://cablecard2:5004/tuner1/v769",
+            "http://cablecard2:5004/tuner2/v769"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v769?ClientID=5&SessionID=92",
+        "freq": "369000000",
+        "program": "4"
+    },
+    {
+        "name": "BBC AME",
+        "channel": "770",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v770",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v770",
+            "http://cablecard:5004/tuner1/v770",
+            "http://cablecard:5004/tuner2/v770",
+            "http://cablecard2:5004/tuner0/v770",
+            "http://cablecard2:5004/tuner1/v770",
+            "http://cablecard2:5004/tuner2/v770"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v770?ClientID=2&SessionID=93",
+        "freq": "399000000",
+        "program": "3"
+    },
+    {
+        "name": "DISC ID",
+        "channel": "771",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v771",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v771",
+            "http://cablecard:5004/tuner1/v771",
+            "http://cablecard:5004/tuner2/v771",
+            "http://cablecard2:5004/tuner0/v771",
+            "http://cablecard2:5004/tuner1/v771",
+            "http://cablecard2:5004/tuner2/v771"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v771?ClientID=4&SessionID=94",
+        "freq": "219000000",
+        "program": "2"
+    },
+    {
+        "name": "TRU TV",
+        "channel": "772",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v772",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v772",
+            "http://cablecard:5004/tuner1/v772",
+            "http://cablecard:5004/tuner2/v772",
+            "http://cablecard2:5004/tuner0/v772",
+            "http://cablecard2:5004/tuner1/v772",
+            "http://cablecard2:5004/tuner2/v772"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v772?ClientID=1&SessionID=95",
+        "freq": "999000000",
+        "program": "27039"
+    },
+    {
+        "name": "BIOGRAP",
+        "channel": "774",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v774",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v774",
+            "http://cablecard:5004/tuner1/v774",
+            "http://cablecard:5004/tuner2/v774",
+            "http://cablecard2:5004/tuner0/v774",
+            "http://cablecard2:5004/tuner1/v774",
+            "http://cablecard2:5004/tuner2/v774"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v774?ClientID=5&SessionID=96",
+        "freq": "999000000",
+        "program": "781"
+    },
+    {
+        "name": "Impact",
+        "channel": "775",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v775",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v775",
+            "http://cablecard:5004/tuner1/v775",
+            "http://cablecard:5004/tuner2/v775",
+            "http://cablecard2:5004/tuner0/v775",
+            "http://cablecard2:5004/tuner1/v775",
+            "http://cablecard2:5004/tuner2/v775"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v775?ClientID=4&SessionID=97",
+        "freq": "999000000",
+        "program": "25204"
+    },
+    {
+        "name": "DIY HD",
+        "channel": "777",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v777",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v777",
+            "http://cablecard:5004/tuner1/v777",
+            "http://cablecard:5004/tuner2/v777",
+            "http://cablecard2:5004/tuner0/v777",
+            "http://cablecard2:5004/tuner1/v777",
+            "http://cablecard2:5004/tuner2/v777"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v777?ClientID=2&SessionID=98",
+        "freq": "369000000",
+        "program": "2"
+    },
+    {
+        "name": "Home Sh",
+        "channel": "778",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v778",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v778",
+            "http://cablecard:5004/tuner1/v778",
+            "http://cablecard:5004/tuner2/v778",
+            "http://cablecard2:5004/tuner0/v778",
+            "http://cablecard2:5004/tuner1/v778",
+            "http://cablecard2:5004/tuner2/v778"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v778?ClientID=1&SessionID=99",
+        "freq": "999000000",
+        "program": "775"
+    },
+    {
+        "name": "Aspire",
+        "channel": "779",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v779",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v779",
+            "http://cablecard:5004/tuner1/v779",
+            "http://cablecard:5004/tuner2/v779",
+            "http://cablecard2:5004/tuner0/v779",
+            "http://cablecard2:5004/tuner1/v779",
+            "http://cablecard2:5004/tuner2/v779"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v779?ClientID=0&SessionID=100",
+        "freq": "213000000",
+        "program": "3"
+    },
+    {
+        "name": "TBS_HD",
+        "channel": "780",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v780",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v780",
+            "http://cablecard:5004/tuner1/v780",
+            "http://cablecard:5004/tuner2/v780",
+            "http://cablecard2:5004/tuner0/v780",
+            "http://cablecard2:5004/tuner1/v780",
+            "http://cablecard2:5004/tuner2/v780"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v780?ClientID=1&SessionID=101",
+        "freq": "261000000",
+        "program": "3"
+    },
+    {
+        "name": "Liquida",
+        "channel": "781",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v781",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v781",
+            "http://cablecard:5004/tuner1/v781",
+            "http://cablecard:5004/tuner2/v781",
+            "http://cablecard2:5004/tuner0/v781",
+            "http://cablecard2:5004/tuner1/v781",
+            "http://cablecard2:5004/tuner2/v781"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v781?ClientID=5&SessionID=102",
+        "freq": "285000000",
+        "program": "1"
+    },
+    {
+        "name": "Son Lif",
+        "channel": "782",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v782",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v782",
+            "http://cablecard:5004/tuner1/v782",
+            "http://cablecard:5004/tuner2/v782",
+            "http://cablecard2:5004/tuner0/v782",
+            "http://cablecard2:5004/tuner1/v782",
+            "http://cablecard2:5004/tuner2/v782"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v782?ClientID=4&SessionID=103",
+        "freq": "273000000",
+        "program": "1"
+    },
+    {
+        "name": "WGN HD",
+        "channel": "783",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v783",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v783",
+            "http://cablecard:5004/tuner1/v783",
+            "http://cablecard:5004/tuner2/v783",
+            "http://cablecard2:5004/tuner0/v783",
+            "http://cablecard2:5004/tuner1/v783",
+            "http://cablecard2:5004/tuner2/v783"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v783?ClientID=3&SessionID=104",
+        "freq": "285000000",
+        "program": "3"
+    },
+    {
+        "name": "FX HD",
+        "channel": "784",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v784",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v784",
+            "http://cablecard:5004/tuner1/v784",
+            "http://cablecard:5004/tuner2/v784",
+            "http://cablecard2:5004/tuner0/v784",
+            "http://cablecard2:5004/tuner1/v784",
+            "http://cablecard2:5004/tuner2/v784"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v784?ClientID=4&SessionID=105",
+        "freq": "219000000",
+        "program": "3"
+    },
+    {
+        "name": "E! HD",
+        "channel": "785",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v785",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v785",
+            "http://cablecard:5004/tuner1/v785",
+            "http://cablecard:5004/tuner2/v785",
+            "http://cablecard2:5004/tuner0/v785",
+            "http://cablecard2:5004/tuner1/v785",
+            "http://cablecard2:5004/tuner2/v785"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v785?ClientID=0&SessionID=106",
+        "freq": "231000000",
+        "program": "1"
+    },
+    {
+        "name": "FOX NEW",
+        "channel": "787",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v787",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v787",
+            "http://cablecard:5004/tuner1/v787",
+            "http://cablecard:5004/tuner2/v787",
+            "http://cablecard2:5004/tuner0/v787",
+            "http://cablecard2:5004/tuner1/v787",
+            "http://cablecard2:5004/tuner2/v787"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v787?ClientID=0&SessionID=108",
+        "freq": "225000000",
+        "program": "3"
+    },
+    {
+        "name": "CNN HD",
+        "channel": "788",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v788",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v788",
+            "http://cablecard:5004/tuner1/v788",
+            "http://cablecard:5004/tuner2/v788",
+            "http://cablecard2:5004/tuner0/v788",
+            "http://cablecard2:5004/tuner1/v788",
+            "http://cablecard2:5004/tuner2/v788"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v788?ClientID=1&SessionID=109",
+        "freq": "999000000",
+        "program": "27559"
+    },
+    {
+        "name": "HLN HD",
+        "channel": "789",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v789",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v789",
+            "http://cablecard:5004/tuner1/v789",
+            "http://cablecard:5004/tuner2/v789",
+            "http://cablecard2:5004/tuner0/v789",
+            "http://cablecard2:5004/tuner1/v789",
+            "http://cablecard2:5004/tuner2/v789"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v789?ClientID=3&SessionID=110",
+        "freq": "321000000",
+        "program": "3"
+    },
+    {
+        "name": "MSNBC H",
+        "channel": "790",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v790",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v790",
+            "http://cablecard:5004/tuner1/v790",
+            "http://cablecard:5004/tuner2/v790",
+            "http://cablecard2:5004/tuner0/v790",
+            "http://cablecard2:5004/tuner1/v790",
+            "http://cablecard2:5004/tuner2/v790"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v790?ClientID=2&SessionID=111",
+        "freq": "315000000",
+        "program": "2"
+    },
+    {
+        "name": "CNBC HD",
+        "channel": "792",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v792",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v792",
+            "http://cablecard:5004/tuner1/v792",
+            "http://cablecard:5004/tuner2/v792",
+            "http://cablecard2:5004/tuner0/v792",
+            "http://cablecard2:5004/tuner1/v792",
+            "http://cablecard2:5004/tuner2/v792"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v792?ClientID=0&SessionID=112",
+        "freq": "363000000",
+        "program": "1"
+    },
+    {
+        "name": "FOX Bus",
+        "channel": "793",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v793",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v793",
+            "http://cablecard:5004/tuner1/v793",
+            "http://cablecard:5004/tuner2/v793",
+            "http://cablecard2:5004/tuner0/v793",
+            "http://cablecard2:5004/tuner1/v793",
+            "http://cablecard2:5004/tuner2/v793"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v793?ClientID=4&SessionID=113",
+        "freq": "315000000",
+        "program": "2"
+    },
+    {
+        "name": "Bloombe",
+        "channel": "794",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v794",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v794",
+            "http://cablecard:5004/tuner1/v794",
+            "http://cablecard:5004/tuner2/v794",
+            "http://cablecard2:5004/tuner0/v794",
+            "http://cablecard2:5004/tuner1/v794",
+            "http://cablecard2:5004/tuner2/v794"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v794?ClientID=0&SessionID=114",
+        "freq": "369000000",
+        "program": "3"
+    },
+    {
+        "name": "BBC WOR",
+        "channel": "795",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v795",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v795",
+            "http://cablecard:5004/tuner1/v795",
+            "http://cablecard:5004/tuner2/v795",
+            "http://cablecard2:5004/tuner0/v795",
+            "http://cablecard2:5004/tuner1/v795",
+            "http://cablecard2:5004/tuner2/v795"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v795?ClientID=3&SessionID=115",
+        "freq": "369000000",
+        "program": "3"
+    },
+    {
+        "name": "El Rey",
+        "channel": "802",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v802",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v802",
+            "http://cablecard:5004/tuner1/v802",
+            "http://cablecard:5004/tuner2/v802",
+            "http://cablecard2:5004/tuner0/v802",
+            "http://cablecard2:5004/tuner1/v802",
+            "http://cablecard2:5004/tuner2/v802"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v802?ClientID=5&SessionID=116",
+        "freq": "291000000",
+        "program": "2"
+    },
+    {
+        "name": "NBC Spo",
+        "channel": "806",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v806",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v806",
+            "http://cablecard:5004/tuner1/v806",
+            "http://cablecard:5004/tuner2/v806",
+            "http://cablecard2:5004/tuner0/v806",
+            "http://cablecard2:5004/tuner1/v806",
+            "http://cablecard2:5004/tuner2/v806"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v806?ClientID=1&SessionID=117",
+        "freq": "999000000",
+        "program": "807"
+    },
+    {
+        "name": "Ovation",
+        "channel": "807",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v807",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v807",
+            "http://cablecard:5004/tuner1/v807",
+            "http://cablecard:5004/tuner2/v807",
+            "http://cablecard2:5004/tuner0/v807",
+            "http://cablecard2:5004/tuner1/v807",
+            "http://cablecard2:5004/tuner2/v807"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v807?ClientID=4&SessionID=118",
+        "freq": "345000000",
+        "program": "2"
+    },
+    {
+        "name": "SEC Net",
+        "channel": "810",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v810",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v810",
+            "http://cablecard:5004/tuner1/v810",
+            "http://cablecard:5004/tuner2/v810",
+            "http://cablecard2:5004/tuner0/v810",
+            "http://cablecard2:5004/tuner1/v810",
+            "http://cablecard2:5004/tuner2/v810"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v810?ClientID=5&SessionID=119",
+        "freq": "999000000",
+        "program": "816"
+    },
+    {
+        "name": "SEC Net",
+        "channel": "811",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v811",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v811",
+            "http://cablecard:5004/tuner1/v811",
+            "http://cablecard:5004/tuner2/v811",
+            "http://cablecard2:5004/tuner0/v811",
+            "http://cablecard2:5004/tuner1/v811",
+            "http://cablecard2:5004/tuner2/v811"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v811?ClientID=3&SessionID=120",
+        "freq": "291000000",
+        "program": "3"
+    },
+    {
+        "name": "CBS Spo",
+        "channel": "813",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v813",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v813",
+            "http://cablecard:5004/tuner1/v813",
+            "http://cablecard:5004/tuner2/v813",
+            "http://cablecard2:5004/tuner0/v813",
+            "http://cablecard2:5004/tuner1/v813",
+            "http://cablecard2:5004/tuner2/v813"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v813?ClientID=3&SessionID=121",
+        "freq": "339000000",
+        "program": "3"
+    },
+    {
+        "name": "ESPN Ne",
+        "channel": "815",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v815",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v815",
+            "http://cablecard:5004/tuner1/v815",
+            "http://cablecard:5004/tuner2/v815",
+            "http://cablecard2:5004/tuner0/v815",
+            "http://cablecard2:5004/tuner1/v815",
+            "http://cablecard2:5004/tuner2/v815"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v815?ClientID=4&SessionID=122",
+        "freq": "999000000",
+        "program": "24972"
+    },
+    {
+        "name": "ESPNU H",
+        "channel": "816",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v816",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v816",
+            "http://cablecard:5004/tuner1/v816",
+            "http://cablecard:5004/tuner2/v816",
+            "http://cablecard2:5004/tuner0/v816",
+            "http://cablecard2:5004/tuner1/v816",
+            "http://cablecard2:5004/tuner2/v816"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v816?ClientID=3&SessionID=123",
+        "freq": "303000000",
+        "program": "2"
+    },
+    {
+        "name": "REGIONA",
+        "channel": "817",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v817",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v817",
+            "http://cablecard:5004/tuner1/v817",
+            "http://cablecard:5004/tuner2/v817",
+            "http://cablecard2:5004/tuner0/v817",
+            "http://cablecard2:5004/tuner1/v817",
+            "http://cablecard2:5004/tuner2/v817"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v817?ClientID=0&SessionID=124",
+        "freq": "999000000",
+        "program": "816"
+    },
+    {
+        "name": "NFL NET",
+        "channel": "822",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v822",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v822",
+            "http://cablecard:5004/tuner1/v822",
+            "http://cablecard:5004/tuner2/v822",
+            "http://cablecard2:5004/tuner0/v822",
+            "http://cablecard2:5004/tuner1/v822",
+            "http://cablecard2:5004/tuner2/v822"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v822?ClientID=5&SessionID=125",
+        "freq": "333000000",
+        "program": "3"
+    },
+    {
+        "name": "QVC Plu",
+        "channel": "823",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v823",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v823",
+            "http://cablecard:5004/tuner1/v823",
+            "http://cablecard:5004/tuner2/v823",
+            "http://cablecard2:5004/tuner0/v823",
+            "http://cablecard2:5004/tuner1/v823",
+            "http://cablecard2:5004/tuner2/v823"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v823?ClientID=1&SessionID=126",
+        "freq": "999000000",
+        "program": "829"
+    },
+    {
+        "name": "TENNIS",
+        "channel": "824",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v824",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v824",
+            "http://cablecard:5004/tuner1/v824",
+            "http://cablecard:5004/tuner2/v824",
+            "http://cablecard2:5004/tuner0/v824",
+            "http://cablecard2:5004/tuner1/v824",
+            "http://cablecard2:5004/tuner2/v824"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v824?ClientID=5&SessionID=127",
+        "freq": "999000000",
+        "program": "25044"
+    },
+    {
+        "name": "NBC Uni",
+        "channel": "829",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v829",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v829",
+            "http://cablecard:5004/tuner1/v829",
+            "http://cablecard:5004/tuner2/v829",
+            "http://cablecard2:5004/tuner0/v829",
+            "http://cablecard2:5004/tuner1/v829",
+            "http://cablecard2:5004/tuner2/v829"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v829?ClientID=4&SessionID=129",
+        "freq": "303000000",
+        "program": "1"
+    },
+    {
+        "name": "Revolt",
+        "channel": "830",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v830",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v830",
+            "http://cablecard:5004/tuner1/v830",
+            "http://cablecard:5004/tuner2/v830",
+            "http://cablecard2:5004/tuner0/v830",
+            "http://cablecard2:5004/tuner1/v830",
+            "http://cablecard2:5004/tuner2/v830"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v830?ClientID=1&SessionID=130",
+        "freq": "465000000",
+        "program": "1"
+    },
+    {
+        "name": "GSN HD",
+        "channel": "843",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v843",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v843",
+            "http://cablecard:5004/tuner1/v843",
+            "http://cablecard:5004/tuner2/v843",
+            "http://cablecard2:5004/tuner0/v843",
+            "http://cablecard2:5004/tuner1/v843",
+            "http://cablecard2:5004/tuner2/v843"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v843?ClientID=1&SessionID=131",
+        "freq": "243000000",
+        "program": "1"
+    },
+    {
+        "name": "FXX HD",
+        "channel": "844",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v844",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v844",
+            "http://cablecard:5004/tuner1/v844",
+            "http://cablecard:5004/tuner2/v844",
+            "http://cablecard2:5004/tuner0/v844",
+            "http://cablecard2:5004/tuner1/v844",
+            "http://cablecard2:5004/tuner2/v844"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v844?ClientID=0&SessionID=132",
+        "freq": "309000000",
+        "program": "1"
+    },
+    {
+        "name": "OXYGEN",
+        "channel": "848",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v848",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v848",
+            "http://cablecard:5004/tuner1/v848",
+            "http://cablecard:5004/tuner2/v848",
+            "http://cablecard2:5004/tuner0/v848",
+            "http://cablecard2:5004/tuner1/v848",
+            "http://cablecard2:5004/tuner2/v848"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v848?ClientID=4&SessionID=133",
+        "freq": "999000000",
+        "program": "25044"
+    },
+    {
+        "name": "HALLMAR",
+        "channel": "849",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v849",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v849",
+            "http://cablecard:5004/tuner1/v849",
+            "http://cablecard:5004/tuner2/v849",
+            "http://cablecard2:5004/tuner0/v849",
+            "http://cablecard2:5004/tuner1/v849",
+            "http://cablecard2:5004/tuner2/v849"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v849?ClientID=3&SessionID=134",
+        "freq": "231000000",
+        "program": "3"
+    },
+    {
+        "name": "ABC FAM",
+        "channel": "850",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v850",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v850",
+            "http://cablecard:5004/tuner1/v850",
+            "http://cablecard:5004/tuner2/v850",
+            "http://cablecard2:5004/tuner0/v850",
+            "http://cablecard2:5004/tuner1/v850",
+            "http://cablecard2:5004/tuner2/v850"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v850?ClientID=3&SessionID=135",
+        "freq": "309000000",
+        "program": "2"
+    },
+    {
+        "name": "CARTOON",
+        "channel": "851",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v851",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v851",
+            "http://cablecard:5004/tuner1/v851",
+            "http://cablecard:5004/tuner2/v851",
+            "http://cablecard2:5004/tuner0/v851",
+            "http://cablecard2:5004/tuner1/v851",
+            "http://cablecard2:5004/tuner2/v851"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v851?ClientID=0&SessionID=136",
+        "freq": "249000000",
+        "program": "2"
+    },
+    {
+        "name": "DISNEY",
+        "channel": "852",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v852",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v852",
+            "http://cablecard:5004/tuner1/v852",
+            "http://cablecard:5004/tuner2/v852",
+            "http://cablecard2:5004/tuner0/v852",
+            "http://cablecard2:5004/tuner1/v852",
+            "http://cablecard2:5004/tuner2/v852"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v852?ClientID=0&SessionID=137",
+        "freq": "465000000",
+        "program": "4"
+    },
+    {
+        "name": "DISNEY",
+        "channel": "853",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v853",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v853",
+            "http://cablecard:5004/tuner1/v853",
+            "http://cablecard:5004/tuner2/v853",
+            "http://cablecard2:5004/tuner0/v853",
+            "http://cablecard2:5004/tuner1/v853",
+            "http://cablecard2:5004/tuner2/v853"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v853?ClientID=2&SessionID=138",
+        "freq": "309000000",
+        "program": "3"
+    },
+    {
+        "name": "DISNEY",
+        "channel": "854",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v854",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v854",
+            "http://cablecard:5004/tuner1/v854",
+            "http://cablecard:5004/tuner2/v854",
+            "http://cablecard2:5004/tuner0/v854",
+            "http://cablecard2:5004/tuner1/v854",
+            "http://cablecard2:5004/tuner2/v854"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v854?ClientID=5&SessionID=139",
+        "freq": "405000000",
+        "program": "3"
+    },
+    {
+        "name": "Sprout",
+        "channel": "856",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v856?CONTENTPROTECTIONTYPE=DTCP1&DTCP1HOST=10.2.2.23&DTCP1PORT=8888",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v856",
+            "http://cablecard:5004/tuner1/v856",
+            "http://cablecard:5004/tuner2/v856",
+            "http://cablecard2:5004/tuner0/v856",
+            "http://cablecard2:5004/tuner1/v856",
+            "http://cablecard2:5004/tuner2/v856"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v856?CONTENTPROTECTIONTYPE=DTCP1&DTCP1HOST=10.2.2.23&DTCP1PORT=8888?ClientID=1&SessionID=140",
+        "freq": "357000000",
+        "program": "3"
+    },
+    {
+        "name": "Nicktoo",
+        "channel": "857",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v857",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v857",
+            "http://cablecard:5004/tuner1/v857",
+            "http://cablecard:5004/tuner2/v857",
+            "http://cablecard2:5004/tuner0/v857",
+            "http://cablecard2:5004/tuner1/v857",
+            "http://cablecard2:5004/tuner2/v857"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v857?ClientID=2&SessionID=141",
+        "freq": "465000000",
+        "program": "2"
+    },
+    {
+        "name": "Reelz C",
+        "channel": "858",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v858?CONTENTPROTECTIONTYPE=DTCP1&DTCP1HOST=10.2.2.23&DTCP1PORT=8888",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v858",
+            "http://cablecard:5004/tuner1/v858",
+            "http://cablecard:5004/tuner2/v858",
+            "http://cablecard2:5004/tuner0/v858",
+            "http://cablecard2:5004/tuner1/v858",
+            "http://cablecard2:5004/tuner2/v858"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v858?CONTENTPROTECTIONTYPE=DTCP1&DTCP1HOST=10.2.2.23&DTCP1PORT=8888?ClientID=3&SessionID=142",
+        "freq": "303000000",
+        "program": "3"
+    },
+    {
+        "name": "SUNDANC",
+        "channel": "859",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v859",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v859",
+            "http://cablecard:5004/tuner1/v859",
+            "http://cablecard:5004/tuner2/v859",
+            "http://cablecard2:5004/tuner0/v859",
+            "http://cablecard2:5004/tuner1/v859",
+            "http://cablecard2:5004/tuner2/v859"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v859?ClientID=1&SessionID=143",
+        "freq": "465000000",
+        "program": "1"
+    },
+    {
+        "name": "FX Movi",
+        "channel": "860",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v860?CONTENTPROTECTIONTYPE=DTCP1&DTCP1HOST=10.2.2.23&DTCP1PORT=8888",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v860",
+            "http://cablecard:5004/tuner1/v860",
+            "http://cablecard:5004/tuner2/v860",
+            "http://cablecard2:5004/tuner0/v860",
+            "http://cablecard2:5004/tuner1/v860",
+            "http://cablecard2:5004/tuner2/v860"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v860?CONTENTPROTECTIONTYPE=DTCP1&DTCP1HOST=10.2.2.23&DTCP1PORT=8888?ClientID=5&SessionID=144",
+        "freq": "375000000",
+        "program": "4"
+    },
+    {
+        "name": "TURNER",
+        "channel": "861",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v861",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v861",
+            "http://cablecard:5004/tuner1/v861",
+            "http://cablecard:5004/tuner2/v861",
+            "http://cablecard2:5004/tuner0/v861",
+            "http://cablecard2:5004/tuner1/v861",
+            "http://cablecard2:5004/tuner2/v861"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v861?ClientID=3&SessionID=145",
+        "freq": "471000000",
+        "program": "4"
+    },
+    {
+        "name": "TV One",
+        "channel": "863",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v863",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v863",
+            "http://cablecard:5004/tuner1/v863",
+            "http://cablecard:5004/tuner2/v863",
+            "http://cablecard2:5004/tuner0/v863",
+            "http://cablecard2:5004/tuner1/v863",
+            "http://cablecard2:5004/tuner2/v863"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v863?ClientID=5&SessionID=146",
+        "freq": "111000000",
+        "program": "3"
+    },
+    {
+        "name": "LMN HD",
+        "channel": "864",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v864",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v864",
+            "http://cablecard:5004/tuner1/v864",
+            "http://cablecard:5004/tuner2/v864",
+            "http://cablecard2:5004/tuner0/v864",
+            "http://cablecard2:5004/tuner1/v864",
+            "http://cablecard2:5004/tuner2/v864"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v864?ClientID=4&SessionID=147",
+        "freq": "465000000",
+        "program": "1"
+    },
+    {
+        "name": "EWTN HD",
+        "channel": "865",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v865",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v865",
+            "http://cablecard:5004/tuner1/v865",
+            "http://cablecard:5004/tuner2/v865",
+            "http://cablecard2:5004/tuner0/v865",
+            "http://cablecard2:5004/tuner1/v865",
+            "http://cablecard2:5004/tuner2/v865"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v865?ClientID=1&SessionID=148",
+        "freq": "471000000",
+        "program": "4"
+    },
+    {
+        "name": "INSP HD",
+        "channel": "866",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v866",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v866",
+            "http://cablecard:5004/tuner1/v866",
+            "http://cablecard:5004/tuner2/v866",
+            "http://cablecard2:5004/tuner0/v866",
+            "http://cablecard2:5004/tuner1/v866",
+            "http://cablecard2:5004/tuner2/v866"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v866?ClientID=2&SessionID=149",
+        "freq": "315000000",
+        "program": "3"
+    },
+    {
+        "name": "RFD HD",
+        "channel": "867",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v867",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v867",
+            "http://cablecard:5004/tuner1/v867",
+            "http://cablecard:5004/tuner2/v867",
+            "http://cablecard2:5004/tuner0/v867",
+            "http://cablecard2:5004/tuner1/v867",
+            "http://cablecard2:5004/tuner2/v867"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v867?ClientID=0&SessionID=150",
+        "freq": "351000000",
+        "program": "3"
+    },
+    {
+        "name": "CMT HD",
+        "channel": "868",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v868",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v868",
+            "http://cablecard:5004/tuner1/v868",
+            "http://cablecard:5004/tuner2/v868",
+            "http://cablecard2:5004/tuner0/v868",
+            "http://cablecard2:5004/tuner1/v868",
+            "http://cablecard2:5004/tuner2/v868"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v868?ClientID=5&SessionID=151",
+        "freq": "471000000",
+        "program": "3"
+    },
+    {
+        "name": "GAC HD",
+        "channel": "869",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v869",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v869",
+            "http://cablecard:5004/tuner1/v869",
+            "http://cablecard:5004/tuner2/v869",
+            "http://cablecard2:5004/tuner0/v869",
+            "http://cablecard2:5004/tuner1/v869",
+            "http://cablecard2:5004/tuner2/v869"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v869?ClientID=4&SessionID=152",
+        "freq": "327000000",
+        "program": "3"
+    },
+    {
+        "name": "DAYSTAR",
+        "channel": "870",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v870",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v870",
+            "http://cablecard:5004/tuner1/v870",
+            "http://cablecard:5004/tuner2/v870",
+            "http://cablecard2:5004/tuner0/v870",
+            "http://cablecard2:5004/tuner1/v870",
+            "http://cablecard2:5004/tuner2/v870"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v870?ClientID=2&SessionID=153",
+        "freq": "999000000",
+        "program": "881"
+    },
+    {
+        "name": "MTV2 HD",
+        "channel": "875",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v875",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v875",
+            "http://cablecard:5004/tuner1/v875",
+            "http://cablecard:5004/tuner2/v875",
+            "http://cablecard2:5004/tuner0/v875",
+            "http://cablecard2:5004/tuner1/v875",
+            "http://cablecard2:5004/tuner2/v875"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v875?ClientID=1&SessionID=154",
+        "freq": "999000000",
+        "program": "950"
+    },
+    {
+        "name": "FOX DEP",
+        "channel": "879",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v879",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v879",
+            "http://cablecard:5004/tuner1/v879",
+            "http://cablecard:5004/tuner2/v879",
+            "http://cablecard2:5004/tuner0/v879",
+            "http://cablecard2:5004/tuner1/v879",
+            "http://cablecard2:5004/tuner2/v879"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v879?ClientID=3&SessionID=155",
+        "freq": "747000000",
+        "program": "3"
+    },
+    {
+        "name": "ESPN DE",
+        "channel": "882",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v882",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v882",
+            "http://cablecard:5004/tuner1/v882",
+            "http://cablecard:5004/tuner2/v882",
+            "http://cablecard2:5004/tuner0/v882",
+            "http://cablecard2:5004/tuner1/v882",
+            "http://cablecard2:5004/tuner2/v882"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v882?ClientID=0&SessionID=157",
+        "freq": "93000000",
+        "program": "27"
+    },
+    {
+        "name": "Gv_BARK",
+        "channel": "950",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v950",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v950",
+            "http://cablecard:5004/tuner1/v950",
+            "http://cablecard:5004/tuner2/v950",
+            "http://cablecard2:5004/tuner0/v950",
+            "http://cablecard2:5004/tuner1/v950",
+            "http://cablecard2:5004/tuner2/v950"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v950?ClientID=4&SessionID=158",
+        "freq": "93000000",
+        "program": "28"
+    },
+    {
+        "name": "MC Kidz",
+        "channel": "1924",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1924",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1924",
+            "http://cablecard:5004/tuner1/v1924",
+            "http://cablecard:5004/tuner2/v1924",
+            "http://cablecard2:5004/tuner0/v1924",
+            "http://cablecard2:5004/tuner1/v1924",
+            "http://cablecard2:5004/tuner2/v1924"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v1924?ClientID=0&SessionID=159",
+        "freq": "93000000",
+        "program": "29"
+    },
+    {
+        "name": "MC Todd",
+        "channel": "1925",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1925",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1925",
+            "http://cablecard:5004/tuner1/v1925",
+            "http://cablecard:5004/tuner2/v1925",
+            "http://cablecard2:5004/tuner0/v1925",
+            "http://cablecard2:5004/tuner1/v1925",
+            "http://cablecard2:5004/tuner2/v1925"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v1925?ClientID=3&SessionID=160",
+        "freq": "93000000",
+        "program": "26"
+    },
+    {
+        "name": "MC Y2K",
+        "channel": "1926",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1926",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1926",
+            "http://cablecard:5004/tuner1/v1926",
+            "http://cablecard:5004/tuner2/v1926",
+            "http://cablecard2:5004/tuner0/v1926",
+            "http://cablecard2:5004/tuner1/v1926",
+            "http://cablecard2:5004/tuner2/v1926"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v1926?ClientID=4&SessionID=161",
+        "freq": "93000000",
+        "program": "28"
+    },
+    {
+        "name": "MC 90s",
+        "channel": "1927",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1927",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1927",
+            "http://cablecard:5004/tuner1/v1927",
+            "http://cablecard:5004/tuner2/v1927",
+            "http://cablecard2:5004/tuner0/v1927",
+            "http://cablecard2:5004/tuner1/v1927",
+            "http://cablecard2:5004/tuner2/v1927"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v1927?ClientID=3&SessionID=162",
+        "freq": "93000000",
+        "program": "35"
+    },
+    {
+        "name": "MC 80s",
+        "channel": "1928",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1928",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1928",
+            "http://cablecard:5004/tuner1/v1928",
+            "http://cablecard:5004/tuner2/v1928",
+            "http://cablecard2:5004/tuner0/v1928",
+            "http://cablecard2:5004/tuner1/v1928",
+            "http://cablecard2:5004/tuner2/v1928"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v1928?ClientID=1&SessionID=163",
+        "freq": "93000000",
+        "program": "34"
+    },
+    {
+        "name": "MC 70s",
+        "channel": "1929",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1929",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1929",
+            "http://cablecard:5004/tuner1/v1929",
+            "http://cablecard:5004/tuner2/v1929",
+            "http://cablecard2:5004/tuner0/v1929",
+            "http://cablecard2:5004/tuner1/v1929",
+            "http://cablecard2:5004/tuner2/v1929"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v1929?ClientID=5&SessionID=164",
+        "freq": "93000000",
+        "program": "33"
+    },
+    {
+        "name": "MC Soil",
+        "channel": "1930",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1930",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1930",
+            "http://cablecard:5004/tuner1/v1930",
+            "http://cablecard:5004/tuner2/v1930",
+            "http://cablecard2:5004/tuner0/v1930",
+            "http://cablecard2:5004/tuner1/v1930",
+            "http://cablecard2:5004/tuner2/v1930"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v1930?ClientID=5&SessionID=165",
+        "freq": "93000000",
+        "program": "38"
+    },
+    {
+        "name": "MC Pop",
+        "channel": "1931",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1931",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1931",
+            "http://cablecard:5004/tuner1/v1931",
+            "http://cablecard:5004/tuner2/v1931",
+            "http://cablecard2:5004/tuner0/v1931",
+            "http://cablecard2:5004/tuner1/v1931",
+            "http://cablecard2:5004/tuner2/v1931"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v1931?ClientID=2&SessionID=166",
+        "freq": "93000000",
+        "program": "32"
+    },
+    {
+        "name": "MC Toda",
+        "channel": "1932",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1932",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1932",
+            "http://cablecard:5004/tuner1/v1932",
+            "http://cablecard:5004/tuner2/v1932",
+            "http://cablecard2:5004/tuner0/v1932",
+            "http://cablecard2:5004/tuner1/v1932",
+            "http://cablecard2:5004/tuner2/v1932"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v1932?ClientID=4&SessionID=167",
+        "freq": "93000000",
+        "program": "36"
+    },
+    {
+        "name": "MC Coun",
+        "channel": "1933",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1933",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1933",
+            "http://cablecard:5004/tuner1/v1933",
+            "http://cablecard:5004/tuner2/v1933",
+            "http://cablecard2:5004/tuner0/v1933",
+            "http://cablecard2:5004/tuner1/v1933",
+            "http://cablecard2:5004/tuner2/v1933"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v1933?ClientID=0&SessionID=168",
+        "freq": "93000000",
+        "program": "37"
+    },
+    {
+        "name": "MC Clas",
+        "channel": "1934",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1934",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1934",
+            "http://cablecard:5004/tuner1/v1934",
+            "http://cablecard:5004/tuner2/v1934",
+            "http://cablecard2:5004/tuner0/v1934",
+            "http://cablecard2:5004/tuner1/v1934",
+            "http://cablecard2:5004/tuner2/v1934"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v1934?ClientID=1&SessionID=169",
+        "freq": "93000000",
+        "program": "40"
+    },
+    {
+        "name": "MC Cont",
+        "channel": "1935",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1935",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1935",
+            "http://cablecard:5004/tuner1/v1935",
+            "http://cablecard:5004/tuner2/v1935",
+            "http://cablecard2:5004/tuner0/v1935",
+            "http://cablecard2:5004/tuner1/v1935",
+            "http://cablecard2:5004/tuner2/v1935"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v1935?ClientID=3&SessionID=170",
+        "freq": "93000000",
+        "program": "20122"
+    },
+    {
+        "name": "MC Pop",
+        "channel": "1936",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1936",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1936",
+            "http://cablecard:5004/tuner1/v1936",
+            "http://cablecard:5004/tuner2/v1936",
+            "http://cablecard2:5004/tuner0/v1936",
+            "http://cablecard2:5004/tuner1/v1936",
+            "http://cablecard2:5004/tuner2/v1936"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v1936?ClientID=2&SessionID=171",
+        "freq": "93000000",
+        "program": "41"
+    },
+    {
+        "name": "MC Mexi",
+        "channel": "1938",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1938",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1938",
+            "http://cablecard:5004/tuner1/v1938",
+            "http://cablecard:5004/tuner2/v1938",
+            "http://cablecard2:5004/tuner0/v1938",
+            "http://cablecard2:5004/tuner1/v1938",
+            "http://cablecard2:5004/tuner2/v1938"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v1938?ClientID=4&SessionID=172",
+        "freq": "93000000",
+        "program": "43"
+    },
+    {
+        "name": "MC Trop",
+        "channel": "1939",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1939",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1939",
+            "http://cablecard:5004/tuner1/v1939",
+            "http://cablecard:5004/tuner2/v1939",
+            "http://cablecard2:5004/tuner0/v1939",
+            "http://cablecard2:5004/tuner1/v1939",
+            "http://cablecard2:5004/tuner2/v1939"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v1939?ClientID=5&SessionID=173",
+        "freq": "93000000",
+        "program": "45"
+    },
+    {
+        "name": "MC Roma",
+        "channel": "1940",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1940",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1940",
+            "http://cablecard:5004/tuner1/v1940",
+            "http://cablecard:5004/tuner2/v1940",
+            "http://cablecard2:5004/tuner0/v1940",
+            "http://cablecard2:5004/tuner1/v1940",
+            "http://cablecard2:5004/tuner2/v1940"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v1940?ClientID=0&SessionID=174",
+        "freq": "93000000",
+        "program": "20284"
+    },
+    {
+        "name": "MC Soun",
+        "channel": "1941",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1941",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1941",
+            "http://cablecard:5004/tuner1/v1941",
+            "http://cablecard:5004/tuner2/v1941",
+            "http://cablecard2:5004/tuner0/v1941",
+            "http://cablecard2:5004/tuner1/v1941",
+            "http://cablecard2:5004/tuner2/v1941"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v1941?ClientID=1&SessionID=175",
+        "freq": "93000000",
+        "program": "46"
+    },
+    {
+        "name": "MC Stag",
+        "channel": "1942",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1942",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1942",
+            "http://cablecard:5004/tuner1/v1942",
+            "http://cablecard:5004/tuner2/v1942",
+            "http://cablecard2:5004/tuner0/v1942",
+            "http://cablecard2:5004/tuner1/v1942",
+            "http://cablecard2:5004/tuner2/v1942"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v1942?ClientID=3&SessionID=176",
+        "freq": "93000000",
+        "program": "48"
+    },
+    {
+        "name": "MC Soun",
+        "channel": "1943",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1943",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1943",
+            "http://cablecard:5004/tuner1/v1943",
+            "http://cablecard:5004/tuner2/v1943",
+            "http://cablecard2:5004/tuner0/v1943",
+            "http://cablecard2:5004/tuner1/v1943",
+            "http://cablecard2:5004/tuner2/v1943"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v1943?ClientID=3&SessionID=177",
+        "freq": "93000000",
+        "program": "49"
+    },
+    {
+        "name": "MC Smoo",
+        "channel": "1944",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1944",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1944",
+            "http://cablecard:5004/tuner1/v1944",
+            "http://cablecard:5004/tuner2/v1944",
+            "http://cablecard2:5004/tuner0/v1944",
+            "http://cablecard2:5004/tuner1/v1944",
+            "http://cablecard2:5004/tuner2/v1944"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v1944?ClientID=3&SessionID=178",
+        "freq": "93000000",
+        "program": "46"
+    },
+    {
+        "name": "MC Jazz",
+        "channel": "1945",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1945",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1945",
+            "http://cablecard:5004/tuner1/v1945",
+            "http://cablecard:5004/tuner2/v1945",
+            "http://cablecard2:5004/tuner0/v1945",
+            "http://cablecard2:5004/tuner1/v1945",
+            "http://cablecard2:5004/tuner2/v1945"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v1945?ClientID=0&SessionID=179",
+        "freq": "93000000",
+        "program": "47"
+    },
+    {
+        "name": "MC Blue",
+        "channel": "1946",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1946",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1946",
+            "http://cablecard:5004/tuner1/v1946",
+            "http://cablecard:5004/tuner2/v1946",
+            "http://cablecard2:5004/tuner0/v1946",
+            "http://cablecard2:5004/tuner1/v1946",
+            "http://cablecard2:5004/tuner2/v1946"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v1946?ClientID=0&SessionID=180",
+        "freq": "93000000",
+        "program": "45"
+    },
+    {
+        "name": "MC Sing",
+        "channel": "1947",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1947",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1947",
+            "http://cablecard:5004/tuner1/v1947",
+            "http://cablecard:5004/tuner2/v1947",
+            "http://cablecard2:5004/tuner0/v1947",
+            "http://cablecard2:5004/tuner1/v1947",
+            "http://cablecard2:5004/tuner2/v1947"
+        ],
+        "verified": "http://cablecard:5004/tuner2/v1947?ClientID=2&SessionID=181",
+        "freq": "93000000",
+        "program": "49"
+    },
+    {
+        "name": "FM HD",
+        "channel": "763",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v763",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v763",
+            "http://cablecard:5004/tuner1/v763",
+            "http://cablecard:5004/tuner2/v763",
+            "http://cablecard2:5004/tuner0/v763",
+            "http://cablecard2:5004/tuner1/v763",
+            "http://cablecard2:5004/tuner2/v763"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v763?ClientID=1&SessionID=88",
+        "freq": "999000000",
+        "program": "763"
+    },
+    {
+        "name": "MC Clas",
+        "channel": "1949",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1949",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1949",
+            "http://cablecard:5004/tuner1/v1949",
+            "http://cablecard:5004/tuner2/v1949",
+            "http://cablecard2:5004/tuner0/v1949",
+            "http://cablecard2:5004/tuner1/v1949",
+            "http://cablecard2:5004/tuner2/v1949"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v1949?ClientID=4&SessionID=183",
+        "freq": "93000000",
+        "program": "53"
+    },
+    {
+        "name": "MC Ligh",
+        "channel": "1950",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1950",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1950",
+            "http://cablecard:5004/tuner1/v1950",
+            "http://cablecard:5004/tuner2/v1950",
+            "http://cablecard2:5004/tuner0/v1950",
+            "http://cablecard2:5004/tuner1/v1950",
+            "http://cablecard2:5004/tuner2/v1950"
+        ],
+        "verified": "http://cablecard:5004/tuner1/v1950?ClientID=1&SessionID=184",
+        "freq": "93000000",
+        "program": "53"
+    },
+    {
+        "name": "NBA TV",
+        "channel": "825",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v825",
+        "favorite": true,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v825",
+            "http://cablecard:5004/tuner1/v825",
+            "http://cablecard:5004/tuner2/v825",
+            "http://cablecard2:5004/tuner0/v825",
+            "http://cablecard2:5004/tuner1/v825",
+            "http://cablecard2:5004/tuner2/v825"
+        ],
+        "verified": "http://cablecard2:5004/tuner0/v825?ClientID=3&SessionID=128",
+        "freq": "999000000",
+        "program": "825"
+    },
+    {
+        "name": "Hillson",
+        "channel": "786",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v786",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v786",
+            "http://cablecard:5004/tuner1/v786",
+            "http://cablecard:5004/tuner2/v786",
+            "http://cablecard2:5004/tuner0/v786",
+            "http://cablecard2:5004/tuner1/v786",
+            "http://cablecard2:5004/tuner2/v786"
+        ],
+        "verified": "http://cablecard2:5004/tuner1/v786?ClientID=4&SessionID=107",
+        "freq": "999000000",
+        "program": "27559"
+    },
+    {
+        "name": "UNIVISI",
+        "channel": "881",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": true,
+        "auto": "http://10.2.2.23:5004/auto/v881",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v881",
+            "http://cablecard:5004/tuner1/v881",
+            "http://cablecard:5004/tuner2/v881",
+            "http://cablecard2:5004/tuner0/v881",
+            "http://cablecard2:5004/tuner1/v881",
+            "http://cablecard2:5004/tuner2/v881"
+        ],
+        "verified": "http://cablecard:5004/tuner0/v881?ClientID=0&SessionID=156",
+        "freq": "999000000",
+        "program": "881"
+    },
+    {
+        "name": "MC Easy",
+        "channel": "1948",
+        "video": "MPEG2",
+        "audio": "AC3",
+        "hd": false,
+        "auto": "http://10.2.2.23:5004/auto/v1948",
+        "favorite": false,
+        "tuners": [
+            "http://cablecard:5004/tuner0/v1948",
+            "http://cablecard:5004/tuner1/v1948",
+            "http://cablecard:5004/tuner2/v1948",
+            "http://cablecard2:5004/tuner0/v1948",
+            "http://cablecard2:5004/tuner1/v1948",
+            "http://cablecard2:5004/tuner2/v1948"
+        ],
+        "verified": "http://cablecard2:5004/tuner2/v1948?ClientID=5&SessionID=182",
+        "freq": "93000000",
+        "program": "52"
+    }
+]
